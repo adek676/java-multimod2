@@ -12,6 +12,10 @@
         <developerConnection>scm:git:git@github.com:adek676/java-multimod2.git</developerConnection>
     </scm>
 
+    <properties>
+        <project.scm.id>github-server</project.scm.id>
+    </properties>
+
     <build>
         <plugins>
             <plugin>
