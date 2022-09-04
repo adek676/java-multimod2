@@ -11,6 +11,10 @@
       <tag>java-multimod2-1.0</tag>
   </scm>
 
+    <properties>
+        <project.scm.id>github-server</project.scm.id>
+    </properties>
+
     <build>
         <plugins>
             <plugin>
